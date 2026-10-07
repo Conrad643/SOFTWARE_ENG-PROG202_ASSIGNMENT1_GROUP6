@@ -4,6 +4,9 @@ A console-based school fee management prototype written in Dart. FeeTrack lets s
 
 Fees are shown in Leones (Le) and the curriculum is modelled on the Sierra Leone JSS/SSS system.
 
+## The problem
+Private secondary schools often record fees by hand in a paper ledger. This makes balances, receipts and defaulter lists slow and error-prone. (This is an assumption based on typical practice, not a study of one named school.)
+
 ## Features
 
 **Students**
